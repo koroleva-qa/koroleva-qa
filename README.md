@@ -1,16 +1,22 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**koroleva-qa/koroleva-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Екатерина, тестировщик программного обеспечения. 
 
-Here are some ideas to get you started:
+Моя страсть — это создание надежных и эффективных тестовых сценариев, которые помогают выявлять и устранять баги на ранних стадиях разработки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Навыки и компетенции:
+- **Тестирование**: функциональное, регрессионное, интеграционное, нагрузочное тестирование
+- **Методологии разработки**: Agile, Scrum, Kanban
+- **Языки и инструменты**: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+  
+</div>
+
+#### 🌟 Мои цели:
+- Постоянное совершенствование навыков автоматизации тестирования
+- Участие в интересных и сложных проектах, которые требуют нестандартного подхода к тестированию
+- Вклад в развитие сообщества QA через обмен знаниями и опытом
